@@ -132,13 +132,7 @@ Here are some of the projects I’ve worked on:
 
 ---
 
-## **Awards and Recognitions**  
-- **Samsung Excellence Award**: Super Tech Award for Research to Development (Quarterly), October 2023.  
-
----
-
 Feel free to explore my repositories and reach out for collaborations or discussions! 😊
 
 ---
 
-This updated `README.md` is more engaging, well-structured, and highlights your skills, projects, and achievements effectively. Let me know if you need further tweaks! 😊
