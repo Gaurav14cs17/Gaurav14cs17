@@ -1,14 +1,10 @@
-Here’s an **updated and highly attractive version** of your GitHub `README.md` file. I've added **explanations**, **emojis**, and **visual elements** to make it visually appealing, engaging, and professional. This version is designed to grab attention, clearly communicate your skills, and showcase your personality in a polished way.
-
 ---
-
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
 <h3 align="center">A passionate AI developer from India</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=gaurav14cs17&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav14cs17" /> 
 </p>
-
 ---
 
 ## **About Me**  
