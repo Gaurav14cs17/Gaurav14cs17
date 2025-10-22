@@ -26,7 +26,6 @@ Let's connect and collaborate! Feel free to reach out:
   <a href="https://www.hackerrank.com/gou_rav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gou_rav" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/scottaran9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="scottaran9" height="30" width="40" /></a>
   <a href="https://www.hackerearth.com/@gou_rav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@gou_rav" height="30" width="40" /></a>
-  <a href="https://www.stopstalk.com/user/profile/gou_rav?fbclid=iwar2u9cb_sjnfjndcwau5lcym3-ad9c9wuj0bjiszs8n-sd126myoyo4hfwe" target="blank"><img align="center" src="https://github.com/Gaurav14cs17/Gaurav14cs17/blob/main/images/download.png" alt="gou_rav" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/gou_rav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gou_rav" height="30" width="40" /></a>
 </p>
 
@@ -49,9 +48,8 @@ Let's connect and collaborate! Feel free to reach out:
 <div align="center">  
   <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50" />
   <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50" />
-  <img style="margin: 10px" src="https://api.iconify.design/logos-perl.svg" alt="perl" width="50" height="50" />
-  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="50" height="50" />
   <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50" height="50" />
+  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="50" height="50" />
 </div>
 
 ### 🔧 **DevOps & Tools**
@@ -60,7 +58,6 @@ Let's connect and collaborate! Feel free to reach out:
   <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" />
   <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" />
   <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="50" height="50" />
-  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="50" height="50" />
 </div>
 
 ---
@@ -78,51 +75,50 @@ Let's connect and collaborate! Feel free to reach out:
 
 ## **Featured Projects**  
 ### 🚀 **Computer Vision & AI Solutions**
-- **📸 Low Light Image Enhancement for Mobile Cameras**: Researched and implemented SOTA algorithms for low-light image enhancement
-- **🚗 Automatic License Plate Recognition (ANPR)**: Developed end-to-end ANPR system with **94% accuracy**
-- **👤 Facial Recognition System**: Designed and deployed facial recognition for automated employee attendance
-- **🚦 Traffic Incident Detection**: Developed modules for stopped vehicles, wrong-way driving, and overspeeding detection
+- **📸 Low Light Image Enhancement**: Researched and implemented SOTA algorithms for mobile cameras
+- **🚗 Automatic License Plate Recognition**: End-to-end ANPR system with **94% accuracy**
+- **👤 Facial Recognition System**: Automated employee attendance system
+- **🚦 Traffic Incident Detection**: Detection of stopped vehicles, wrong-way driving, and overspeeding
 
 ### 🔬 **Research & Development**
-- Contributed to several **state-of-the-art algorithms** and **research papers**
+- Contributed to **state-of-the-art algorithms** and **research papers**
 - Focus on **real-world AI applications** and **performance optimization**
 
 ---
 
-## **Competitive Programming & Achievements**
-- **💻 Competitive Coding**: Solved **1500+ problems** across Codeforces, CodeChef, HackerEarth, and SPOJ
-- **🧠 LeetCode**: Solved **300+ problems** with strong DSA foundation
-- **🏆 Multiple coding competition participations** and achievements
+## **Competitive Programming**
+- **💻 1500+ problems** solved across Codeforces, CodeChef, HackerEarth, and SPOJ
+- **🧠 300+ LeetCode problems** with strong DSA foundation
+- **🏆 Multiple coding competition achievements**
 
 ---
 
 ## **Certifications & Education**
-- **🎓 Deep Learning Specialization (Coursera)**: Comprehensive training in Neural Networks, Hyperparameter Tuning, and CNNs
-- Continuous learning in **advanced AI/ML techniques** and **emerging technologies**
+- **🎓 Deep Learning Specialization (Coursera)**
+- Continuous learning in **advanced AI/ML techniques**
 
 ---
 
-## **What I Bring to the Table**
-- **5+ years** of hands-on experience in AI development
-- Strong expertise in **end-to-end project development** from research to deployment
+## **Experience Highlights**
+- **5+ years** in AI development
+- Strong expertise in **end-to-end project development**
 - Proven track record in **solving complex computer vision challenges**
-- Passion for **innovation** and creating **impactful AI solutions**
+- Passion for **innovation** and **impactful AI solutions**
 
 ---
 
 ## **Let's Collaborate!**
-I'm always excited to work on challenging AI projects and collaborate with like-minded professionals. Whether it's:
+I'm always excited to work on challenging AI projects:
+
 - 🤝 **Research collaborations**
-- 💼 **Industry projects**
+- 💼 **Industry projects** 
 - 🎯 **Competitive programming**
 - 🔬 **Open source contributions**
 
-Feel free to explore my repositories and reach out for discussions or collaborations! 😊
+Feel free to explore my repositories and reach out! 😊
 
 ---
 
 <p align="center">
   <i>Building intelligent solutions, one algorithm at a time</i> 🚀
 </p>
-
----
