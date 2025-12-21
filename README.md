@@ -1,7 +1,6 @@
 <div align="center">
   
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Gaurav%20Goswami&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Lead%20Deep%20Learning%20Engineer%20%40%20Samsung%20R%26D&descAlignY=52&descSize=22"/>
+
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
