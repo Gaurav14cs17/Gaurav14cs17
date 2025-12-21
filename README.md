@@ -384,7 +384,7 @@ Complete **YOLOv8 implementation** in PyTorch with training pipelines and infere
 | <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/> | **500+** | [@scottaran9](https://codeforces.com/profile/scottaran9) |
 | <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white"/> | **400+** | [@gou_rav](https://www.codechef.com/users/gou_rav) |
 | <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white"/> | **200+** | [@gou_rav](https://www.hackerrank.com/profile/gou_rav) |
-| <img src="https://img.shields.io/badge/HackerEarth-2C3454?style=flat-square&logo=hackerearth&logoColor=white"/> | **100+** | [@gou_rav](https://www.hackerearth.com/@gou_rav) |
+| <img src="https://img.shields.io/badge/HackerEarth-2C3454?style=flat-square&logo=hackerearth&logoColor=white"/> | **300+** | [@gou_rav](https://www.hackerearth.com/@gou_rav) |
 
 <img src="https://img.shields.io/badge/🔥_Total_Problems_Solved-1500+-red?style=for-the-badge" alt="Total"/>
 
