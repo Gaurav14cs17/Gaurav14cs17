@@ -352,13 +352,13 @@ Complete **YOLOv8 implementation** in PyTorch with training pipelines and infere
 
 ## 📊 GitHub Analytics
 
-
-
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav14cs17&theme=nightowl&hide_border=true&stroke=A78BFA&ring=EC4899&fire=EC4899&currStreakLabel=A78BFA&background=0D1117" alt="Streak Stats"/>
+  
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gaurav14cs17&show_icons=true&count_private=true&hide_border=true&title_color=A78BFA&icon_color=EC4899&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="GitHub Stats" /> 
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav14cs17&layout=compact&hide_border=true&title_color=A78BFA&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+
 </div>
 
-<br>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav14cs17&bg_color=0d1117&color=A78BFA&line=EC4899&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
