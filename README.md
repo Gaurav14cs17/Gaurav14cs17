@@ -354,7 +354,6 @@ Complete **YOLOv8 implementation** in PyTorch with training pipelines and infere
 
 <div align="center">
   
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gaurav14cs17&show_icons=true&count_private=true&hide_border=true&title_color=A78BFA&icon_color=EC4899&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="GitHub Stats" /> 
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav14cs17&layout=compact&hide_border=true&title_color=A78BFA&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
 
 </div>
