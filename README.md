@@ -1,6 +1,4 @@
 <div align="center">
-  
-
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -357,6 +355,19 @@ Complete **YOLOv8 implementation** in PyTorch with training pipelines and infere
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav14cs17&bg_color=0d1117&color=A78BFA&line=EC4899&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
 </div>
 
+<br>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaurav14cs17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=EC4899&text_color=ffffff&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav14cs17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=ffffff&langs_count=8" alt="Top Languages"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav14cs17&theme=tokyonight&hide_border=true&background=0d1117&stroke=A78BFA&ring=EC4899&fire=EC4899&currStreakLabel=A78BFA" alt="GitHub Streak"/>
+</div>
+
 ---
 
 ## 🏆 GitHub Achievements
@@ -440,9 +451,9 @@ Complete **YOLOv8 implementation** in PyTorch with training pipelines and infere
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gaurav14cs17/gaurav14cs17/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gaurav14cs17/gaurav14cs17/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/gaurav14cs17/gaurav14cs17/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
 </div>
 
@@ -500,3 +511,4 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
 
 <!-- Animated Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
+
