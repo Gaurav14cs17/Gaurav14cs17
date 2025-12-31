@@ -122,7 +122,7 @@ class GauravGoswami:
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-300+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/gou_rav/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-500+-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/scottaran9)
+[![Codeforces](https://img.shields.io/badge/Codeforces-800+-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/scottaran9)
 [![CodeChef](https://img.shields.io/badge/CodeChef-400+-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/gou_rav)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/gou_rav)
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-300+-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@gou_rav/)
