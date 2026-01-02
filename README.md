@@ -70,21 +70,6 @@ class GauravGoswami:
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech |
-|:-------:|:------------|:----:|
-| [**🧠 Attention Mechanisms**](https://github.com/Gaurav14cs17/Attention_mechanisms) | In-depth surveys on efficient transformer architectures | `Transformers` `Research` |
-| [**🎯 LEAF-YOLO**](https://github.com/Gaurav14cs17/LEAF-YOLO) | Object detection for aerial imagery & edge devices | `YOLO` `Edge AI` |
-| [**🔥 YOLOv8-PyTorch**](https://github.com/Gaurav14cs17/YOLOV8-Pytorch) | Complete YOLOv8 implementation with training pipelines | `PyTorch` `Detection` |
-| [**📚 DSA**](https://github.com/Gaurav14cs17/DSA) | Data Structures & Algorithms for interview prep | `Algorithms` `Python` |
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
