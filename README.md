@@ -102,7 +102,7 @@ class GauravGoswami:
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/gou_rav)
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-300+-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@gou_rav/)
 
-**1500+ Problems Solved**
+**1800+ Problems Solved**
 
 </div>
 
