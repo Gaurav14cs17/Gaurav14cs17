@@ -89,17 +89,7 @@ class GauravGoswami:
 
 </div>
 
----
 
-## 🏆 Achievements
-
-<div align="center">
-
-`🏆 Starstruck` `❄️ Arctic Code Vault Contributor` `🎯 Pull Shark` `🔐 Galaxy Brain`
-
-</div>
-
----
 
 
 ## 💻 Competitive Programming
