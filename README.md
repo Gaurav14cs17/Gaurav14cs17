@@ -110,21 +110,4 @@ class GauravGoswami:
 
 <div align="center">
 
-### 💬 Let's Connect!
 
-*Open to collaborations on Transformers, Diffusion Models & Edge AI*
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/View_All_Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gaurav14cs17?tab=repositories)
-
-<br>
-
-**⭐ Star my repos if you find them useful!**
-
-<img src="https://img.shields.io/github/stars/gaurav14cs17?style=social" alt="Stars"/>
-
-</div>
-
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
