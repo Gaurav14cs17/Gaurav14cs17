@@ -68,30 +68,6 @@ class GauravGoswami:
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/gaurav14cs17">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gaurav14cs17&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gaurav14cs17&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0d1117"/>
-</a>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=gaurav14cs17&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=764ba2&currStreakLabel=667eea" alt="Streak"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaurav14cs17&theme=tokyonight" alt="Contribution Graph"/>
-
-</div>
-
-
-
-
 ## 💻 Competitive Programming
 
 <div align="center">
@@ -103,11 +79,4 @@ class GauravGoswami:
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-300+-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@gou_rav/)
 
 **1800+ Problems Solved**
-
 </div>
-
----
-
-<div align="center">
-
-
