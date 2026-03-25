@@ -39,7 +39,7 @@ class GauravGoswami:
         "CUDA Kernels & LLM Optimization"
     ]
     
-    currently = "Building open-source AI infrastructure for next-gen foundation models 🚀"
+
 ```
 
 ## 🔧 Current Work @ Red Hat
