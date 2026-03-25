@@ -1,5 +1,5 @@
 <!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Gaurav%20Goswami&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Lead%20Deep%20Learning%20Engineer%20@%20Samsung&descSize=18&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Gaurav%20Goswami&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20Engineer%20@%20Red%20Hat&descSize=18&descAlignY=55"/>
 
 <div align="center">
 
@@ -24,19 +24,30 @@
 
 ```python
 class GauravGoswami:
-    role = "Lead Deep Learning Engineer"
-    company = "Samsung R&D Institute, Bangalore"
+    role = "Machine Learning Engineer"
+    company = "Red Hat"
+    location = "India (Hybrid)"
     
     expertise = [
+        "Open-Source AI Infrastructure",
+        "Large-Scale Model Training & Serving",
+        "PyTorch Ecosystem & Tooling",
+        "vLLM & High-Throughput Inference",
         "Transformers & Attention Mechanisms",
         "Diffusion Models & Generative AI", 
         "Vision-Language Models",
-        "CUDA Kernels & LLM Optimization",
-        "YOLO & Edge AI Deployment"
+        "CUDA Kernels & LLM Optimization"
     ]
     
-    currently = "Building AI that powers millions of devices 🚀"
+    currently = "Building open-source AI infrastructure for next-gen foundation models 🚀"
 ```
+
+## 🔧 Current Work @ Red Hat
+
+- Contributing to **PyTorch ecosystem** and open-source AI tooling
+- Developing scalable training workflows using **Training Hub** for large-scale model training pipelines
+- Optimizing high-throughput inference for LLMs with **vLLM**
+- Building open-source AI infrastructure for training and serving next-generation foundation models
 
 ## 💻 Competitive Programming
 
